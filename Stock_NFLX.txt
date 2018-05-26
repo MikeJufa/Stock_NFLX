@@ -21,7 +21,7 @@ Set dataManagerTables = ;
 
 Unqualify *;
 
-[NFLX (1)]:
+[NFLX_data]:
 LOAD
 	[Date],
 	[Open],
